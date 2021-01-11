@@ -5,3 +5,5 @@
 - [Kevin Thomas](https://github.com/trustedmercury) - Experienced and well versed with everything development, wouldn't be where I am today without him, would recommend!
 
 - [Treyver Reicha](https://github.com/emerald73) - Helped fix dumb mistakes in my shit code among other things ~~also im a slave of petus help~~
+
+- [Xe35](https://github.com/Xe35) - Made me learn Python and helped my Github skills to grow. 
