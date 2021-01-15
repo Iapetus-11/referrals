@@ -10,4 +10,5 @@
 
 - [gritor111](https://github.com/gritor111) - Taught me how to use git, discord.py and postgreSQL, thank you so much petus.
 
-- [clvrk](https://github.com/clvrk) - Helped me out with discord.py and aiohttp and core principles of Python. His knowledge in Python, APIs and Web development is exceptional.
+- [clvrk](https://github.com/clvrk) - Helped me out with discord.py, aiohttp and core principles of Python. His knowledge in Python, APIs and Web development in general is 
+  exceptional.
