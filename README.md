@@ -16,4 +16,4 @@
 
 - [Dhruvin Purohit](https://github.com/dhruvin-purohit) - Helped me learn python, gave me an opporunity to work on [Villager Bot](https://github.com/Villager-Dev/Villager-Bot)
 
--[Infernum1](https://github.com/Infernum1) - Inspired me to learn python, helped me alot with my few projects throughout and honestly a great vibe to be around. Would definitely recommend working with him.
+- [Infernum1](https://github.com/Infernum1) - Inspired me to learn python, helped me alot with my few projects throughout and honestly a great vibe to be around. Would definitely recommend working with him.
