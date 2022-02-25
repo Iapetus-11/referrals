@@ -15,3 +15,5 @@
 - [sh-](https://www.youtube.com/watch?v=dQw4w9WgXcQ)[wayz](https://github.com/sh-wayz) - Taught me Python, the basics of git, and showed me how to learn more. 10/10 would recommend being taught by him.
 
 - [Dhruvin Purohit](https://github.com/dhruvin-purohit) - Helped me learn python, gave me an opporunity to work on [Villager Bot](https://github.com/Villager-Dev/Villager-Bot)
+
+-[Infernum1](https://github.com/Infernum1) - Inspired me to learn python, helped me alot with my few projects throughout and honestly a great vibe to be around. Would definitely recommend working with him.
