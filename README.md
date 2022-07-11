@@ -2,7 +2,7 @@
 *If I've ever helped you significantly, fork the repository, add your name and comment, and then create a PR! See [FORMAT.md](https://github.com/Iapetus-11/The-Helped/blob/main/FORMAT.md) for more details!*
 <br>
 
-- [Kevin Thomas](https://github.com/trustedmercury) - Experienced and well versed with everything development, wouldn't be where I am today without him, would recommend!
+- [Kevin Thomas](https://github.com/kevinjosethomas) - Experienced and well versed with everything development, wouldn't be where I am today without him, would recommend!
 
 - [Treyver Reicha](https://github.com/emerald73) - Helped fix dumb mistakes in my sh\*t code among other things
 
