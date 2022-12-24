@@ -6,7 +6,7 @@
 
 - [emerald](https://github.com/emerald73) - Helped fix dumb mistakes and understand more stuff to do with coding among other things
 
-- [Xe35](https://github.com/Xe35) - Made me learn Python and helped my Github skills to grow.
+- [XeDotCom](https://github.com/XeDotCom) - Made me learn Python and helped my Github skills to grow.
 
 - [gritor111](https://github.com/gritor111) - Taught me how to use git, discord.py and postgreSQL, thank you so much petus.
 
