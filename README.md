@@ -18,4 +18,4 @@
 
 - [Infernum1](https://github.com/Infernum1) - Inspired me to learn python, helped me a lot with my few projects throughout and honestly a great vibe to be around. Would definitely recommend working with him.
 
-- [jkriste](https://github.com/jkriste) - Helped me so much with [ClemBot](https://https://github.com/ClemBotProject/ClemBot), Python, C#, and so many other mundane questions I could've just googled. Amazing person and friend with tons of knowledge on vast amounts of concepts, would recommend.
+- [jkriste](https://github.com/jkriste) - Helped me so much with [ClemBot](https://github.com/ClemBotProject/ClemBot), Python, C#, and so many other mundane questions I could've just googled. Amazing person and friend with tons of knowledge on vast amounts of concepts, would recommend.
